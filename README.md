@@ -12,7 +12,7 @@ Todo Swamp is a Rust-based command-line application for managing a todo list. It
 ## Project Structure
 
 The project is structured as follows:
-  
+```bash
 
  ├── .gitignore 
  ├── Cargo.lock 
@@ -41,7 +41,7 @@ The project is structured as follows:
  │ ├── standard-test.rs 
  │ ├── test-cases.rs 
  │ └── todo-list-test.rs
-
+```
 ## Code Overview
 
 The code is divided into the following modules:
